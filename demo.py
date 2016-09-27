@@ -1,5 +1,5 @@
 def func1():
-    return 'func1'
+    return 'funcone'
 
 def main():
     print func1()
