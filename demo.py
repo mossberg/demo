@@ -1,5 +1,5 @@
 def func1():
-    return 'funcone'
+    return 'funkone'
 
 def func2():
     return 'func2'
